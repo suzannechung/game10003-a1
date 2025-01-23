@@ -7,4 +7,4 @@ As the title suggest, this is a small interactive terminal game created to help 
 2. Apply problem-solving strategies and methods to overcome software development challenges.
 3. Apply design processes to digital game development including documentation, pseudo code, sketching, and diagramming.
 
-Hope you enjoy! and... make it out the manor alive :)
+Hope you enjoy! and... make it out of the manor alive :)
